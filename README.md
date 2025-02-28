@@ -2,8 +2,10 @@
 
 👩‍💻software developer..
 
-![ProblemSolveGIF](https://github.com/user-attachments/assets/b0a1624e-07a4-4dcd-9b23-13943e2c26a3)
 Problem solver
+
+![ProblemSolveGIF](https://github.com/user-attachments/assets/b0a1624e-07a4-4dcd-9b23-13943e2c26a3)
+
 
 
 ⚙️Critical thinker
