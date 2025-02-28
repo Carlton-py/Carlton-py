@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Carlton-py
-- 👀 I’m interested in software development ...
-- 🌱 I’m currently learning python and also about to start learning html and css ...
-- 💞️ I’m looking to collaborate on any project ...
-- 📫 How to reach me gboxy619@gmail.com. whatsapp only +2348075054670. calls only +447543416393 ...
+🙋‍♂️Gbolahan
+👩‍💻software developer..
+![ProblemSolveGIF](https://github.com/user-attachments/assets/b0a1624e-07a4-4dcd-9b23-13943e2c26a3)
+Problem solver
+⚙️Critical thinker
 
 <!---
 Carlton-py/Carlton-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
